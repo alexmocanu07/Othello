@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d62ce389-dd4a-4631-a4b3-bdfffa4ad212" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this.game</find>
+      <find>handleAI</find>
+      <find>cornerCount</find>
+      <find>manageTurn</find>
+      <find>player1</find>
+      <find>mobilityCount</find>
+      <find>highl</find>
+      <find>.gif</find>
+      <find>.png</find>
+      <find>color</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectId" id="1WLizUFoBeSaSMj2ETYY0Kh82PM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="588" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579263609009" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="UI" />
+      <recent name="game" />
+      <recent name="algorithms" />
+      <recent name="evaluators" />
+      <recent name="utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AI\src" />
+      <recent name="D:\AI\icons" />
+      <recent name="D:\AI\src\UI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AI" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d62ce389-dd4a-4631-a4b3-bdfffa4ad212" name="Default Changelist" comment="" />
+      <created>1578935538405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578935538405</updated>
+      <workItem from="1578935545429" duration="4579000" />
+      <workItem from="1579072802359" duration="57419000" />
+      <workItem from="1579202384262" duration="6935000" />
+      <workItem from="1579217112047" duration="5421000" />
+      <workItem from="1579254526499" duration="3769000" />
+      <workItem from="1579262160399" duration="818000" />
+      <workItem from="1579269812480" duration="3953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579104773666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579104773666" />
+    <state x="731" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579195710580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579195710580" />
+    <state x="1210" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1579194741248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1210" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579194741248" />
+    <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579196363016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579196363016" />
+    <state x="690" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579074438212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579074438212" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579269817705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1579269817705" />
+    <state x="756" y="406" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579195889668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="406" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1579195889668" />
+    <state x="756" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579196693867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="427" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1579196693867" />
+    <state x="485" y="132" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579255182480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="132" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1579255182480" />
+    <state x="232" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579188786750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="232" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579188786750" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1579196321040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579196321040" />
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom" timestamp="1579280543514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579280543514" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state width="1493" height="176" key="GridCell.Tab.0.center" timestamp="1579280543513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579280543513" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state width="1493" height="176" key="GridCell.Tab.0.left" timestamp="1579280543513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579280543513" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342073" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right" timestamp="1579280543514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579280543514" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1579201342074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="984" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578980060753" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1579201342074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="984" height="347" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578980060753" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1579201342074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="984" height="347" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578980060753" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1579201342074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="984" height="347" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578980060753" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579201342074" />
+    <state x="922" y="162" key="SettingsEditor" timestamp="1579072855268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579072855268" />
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579269814215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579269814215" />
+    <state x="588" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579202407251" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579196930026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579196930026" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
